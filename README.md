@@ -1,8 +1,8 @@
 
-Windows 11 Diagnostic Tools (Powershell)
+Windows Maintenance Hub (Powershell)
 
 Description synthétique :
-Windows 11 Diagnostic Tools est un outil de maintenance et de dépannage complet qui permet d'analyser l'état de santé du système, 
+Windows Maintenance Hub est un outil de maintenance et de dépannage complet qui permet d'analyser l'état de santé du système, 
 de détecter rapidement les défaillances (matérielles, logicielles ou réseau),
 et d'appliquer des actions correctives pour garantir la stabilité et la réactivité de Windows 11.
 
@@ -12,8 +12,8 @@ Developpement : Powershell, IA Gemini, IA Vibe.
 
 ====================================================================
 
-Présentation de Windows 11 Diagnostic Tools
-Windows 11 Diagnostic Tools est un utilitaire centralisé de diagnostic, de maintenance et d’optimisation spécialement conçu pour l'environnement Windows 11. Il regroupe en une interface unique l'accès aux fonctionnalités natives du système ainsi que des modules d'analyse personnalisés, permettant d'identifier rapidement les dysfonctionnements, de surveiller la santé du matériel et d'optimiser les performances globales.
+Présentation de Windows Maintenance Hub
+Windows Maintenance Hub est un utilitaire centralisé de diagnostic, de maintenance et d’optimisation spécialement conçu pour l'environnement Windows 11. Il regroupe en une interface unique l'accès aux fonctionnalités natives du système ainsi que des modules d'analyse personnalisés, permettant d'identifier rapidement les dysfonctionnements, de surveiller la santé du matériel et d'optimiser les performances globales.
 
 
 Fonctionnalités et modules principaux
